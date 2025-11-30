@@ -1,0 +1,58 @@
+body {
+font-size: 15pt;
+background-image: url(bckg.jpg) ;
+}
+:root {
+  --light-color: #ADF8FF;
+}
+
+#myBtn {
+cursor: pointer;
+margin: 2px 125px 125px 125px;
+padding: 16px 32px;
+background-color: #9BF4FF;
+color: black;
+border: 1PX solid black;
+border-radius: 50px;
+box-shadow: 4px 4px black;
+}
+
+#myBtn:hover {
+  box-shadow: 2px 2px 2px
+  white,-2px -2px 2px black;
+}
+
+.hello {
+height:200px;
+width:200px;
+background-color: #C3F8FF;
+margin: 50px 50px 50px 50px;
+font-size: 15px;
+padding: 20px 20px 100px 20px;
+text-align: center;
+border-radius: 20px;
+box-shadow: 6px 7px #000000;
+}
+
+h1{
+  font-family: cursive;
+  font-size: 20px;
+  margin: -2px;
+  padding: 0px;
+  text-align: left;
+  font-weight: normal;
+}
+h3{
+  font-family: cursive;
+  font-weight: bold;
+  text-align: left;
+}
+.second{
+  font-family: cursive;
+}
+h5 {
+  font-family: cursive;
+  text-align: center;
+  color: #179FFF;
+  padding: 20px;
+}
